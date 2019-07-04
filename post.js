@@ -2,7 +2,7 @@ $(function () {
     $('.slack-submit').on('click', function () {
     var url = 'https://slack.com/api/chat.postMessage';
         var data = {
-            token: 'xoxp-645645449623-643295357428-686550594535-94a2955170f0724bdf86b2ba51d73876',
+            token: 'xoxb-645645449623-684727900789-xg1Q1wvu1Vse8jaLDMr0GimC',
             channel: '#general',
             username: '記録君',
             text: 'Hello Slack!'

@@ -13,7 +13,7 @@ $(function () {
             url: url,
             data: data,
             success: function (data) {
-                alert( 'Can I post to Slack? :' + data.ok );
+                alert( '投稿' );
             }
         });
     });

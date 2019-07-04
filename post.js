@@ -4,7 +4,7 @@ $(function () {
         var data = {
             token: 'xoxb-645645449623-684727900789-xg1Q1wvu1Vse8jaLDMr0GimC',
             channel: '#general',
-            username: '記録君',
+            username: '',
             text: 'Hello Slack!'
         };
 

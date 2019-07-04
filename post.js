@@ -3,7 +3,7 @@ $(function () {
     var url = 'https://slack.com/api/chat.postMessage';
         var data = {
             token: 'あなたのトークン',
-            channel: '#入退室管理',
+            channel: '#入退室記録',
             username: 'oreno-bot',
             text: 'Hello Slack!'
         };

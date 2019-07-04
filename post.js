@@ -4,7 +4,7 @@ $(function () {
         var data = {
             token: 'xoxp-645645449623-643295357428-686550594535-94a2955170f0724bdf86b2ba51d73876',
             channel: '#general',
-            username: 'oreno-bot',
+            username: '記録君',
             text: 'Hello Slack!'
         };
 

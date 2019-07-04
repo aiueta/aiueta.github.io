@@ -13,7 +13,7 @@ $(function () {
             url: url,
             data: data,
             success: function (data) {
-                alert( '投稿' );
+                alert( '投稿'　+data.ok );
             }
         });
     });
